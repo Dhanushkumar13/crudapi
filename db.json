@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dhanush Kumar K",
+      "email": "dhanushpappu99@gmail.com",
+      "phone": "9551054510"
+    },
+    {
+      "id": 2,
+      "name": "Vignesh V",
+      "email": "vicky99@gmail.com",
+      "phone": "9551054511"
+    },
+    {
+      "id": 3,
+      "name": "Alex",
+      "email": "alex131@gmail.com",
+      "phone": "9551054513"
+    },
+    {
+      "id": 4,
+      "name": "Antonio",
+      "email": "anto121@gmail.com",
+      "phone": "8551054510"
+    },
+    {
+      "id": 5,
+      "name": "Leo Das",
+      "email": "leodas@gmail.com",
+      "phone": "9551054516"
+    },
+    {
+      "id": 6,
+      "name": "Rolex",
+      "email": "sirjustsir@gmail.com",
+      "phone": "9551054519"
+    },
+    {
+      "id": 7,
+      "name": "Micheal jackson",
+      "email": "mjheehee@gmail.com",
+      "phone": "9551054515"
+    },
+    {
+      "id": 8,
+      "name": "Steve Austin",
+      "email": "steveaus123@gmail.com",
+      "phone": "9551054520"
+    },
+    {
+      "id": 9,
+      "name": "Chuburamani",
+      "email": "chuburamani99@gmail.com",
+      "phone": "9551054530"
+    },
+    {
+      "id": 10,
+      "name": "Peter Parker",
+      "email": "petespidey@gmail.com",
+      "phone": "9551054570"
+    }
+  ]
+}
